@@ -226,7 +226,7 @@ Cada módulo será descrito em uma seção específica, com a seguinte estrutura
 
 ---
 
-### Módulo 5: Inscrição Esportiva
+### Módulo 5: Inscrição Esportiva (mudar nomenclatura "escolas esportivas" ou "atividades esportivas")
 
 **Descrição:** Gerenciar atividades esportivas e suas inscrições.
 
@@ -236,15 +236,18 @@ Cada módulo será descrito em uma seção específica, com a seguinte estrutura
   - [ ] Listar as atividades esportivas disponíveis.
   - [ ] Editar, ver e criar turmas.
   - [ ] Criar novo esporte.
+  - [ ] Aula experimental condicionada a limite de vagas disponiveis na turma.
+  - [ ] Natação tem regras especificas (3 perguntas - se a crianca tem vivencia na modalidade...).
+  - [ ] Transferencia de matricula de uma atividade para outro usuario dentro da mesma matricula.
 - **Bugs/Erros:**  
-   - Erro ao criar nova turma, botão inoperante.
+   - Após criar turma ao editar nao atualiza na tela de turma inserida.
+   - nao salva a edição de turma "InvalidRequestException"
 - **Status:** [Em progresso]
 
 #### Funcionalidade 5.2: Área do Instrutor
-- **Descrição:** Área do professor, lista de acordo com a modalidade esportiva.
+- **Descrição:** Área do professor, lista de acordo com a modalidade esportiva, turmas e chamada.
 - **Requisitos para conclusão:**  
-  - [Requisito 1]
-  - [Requisito 2]
+  - Ver as suas turmas e realizar chamadas.
 - **Bugs/Erros:**  
    - [Bug1]
    - [Bug2]
