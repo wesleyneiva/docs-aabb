@@ -266,7 +266,7 @@ Cada módulo será descrito em uma seção específica, com a seguinte estrutura
 
 ### Módulo 6: Locação
 
-**Descrição:** Gerenciar atividades esportivas e suas inscrições.
+**Descrição:** Gerenciar locações de espaços, salões, coworking...
 
 #### Funcionalidade 6.1: Reservas
 - **Descrição:** Locação de espaços, salões, armários e materiais (com e sem custos), emissão de contrato, controle de prazos de pré-reservas e lista de interessados.
