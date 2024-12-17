@@ -118,16 +118,17 @@ Cada módulo será descrito em uma seção específica, com a seguinte estrutura
 
 ### Módulo 5: Locações
 
-**Descrição:** Gerenciar atividades esportivas e suas inscrições.
+**Descrição:** Locação de espaços, salões... inserir carrossel de fotos para fomentar o marketing e tornar mais "vendável". (talvez na opcão de abas deixar uma especifica para fotos em carrossel).
 
 #### Funcionalidade 5.1: Espaços para Locação
 - **Descrição:** Locação de espaços, salões, armários e materiais (com e sem custos), emissão de contrato, controle de prazos de pré-reservas e lista de interessados.
 Regras para locação, moldes e limites com rotinas parametrizáveis: pré-reservas, lista de interessados e reservas com periodicidade.
 - **Requisitos para conclusão:**  
   - [ ] Listar os espaços disponiveis para locação.
-  - [ ] Exibir detalhes dos espaços como fotos e texto.
+  - [ ] Exibir detalhes dos espaços como fotos e textos.
+  - [ ] Carrossel de fotos para marketing.
 - **Bugs/Erros:**  
-  - seçao indisponivel. "Nenhum espaço encontrado."
+  - Seção em funcionamento. Adicionar um carrossel de fotos para que atraia mais locações através do marketing.
 - **Status:** [Em progresso]
 
 #### Funcionalidade 5.2: Minhas Locações
@@ -135,8 +136,9 @@ Regras para locação, moldes e limites com rotinas parametrizáveis: pré-reser
 - **Requisitos para conclusão:**  
   - [ ] Listar os espaços que o associado locou.
   - [ ] Gerenciar locações.
+  - [ ] Depois que for aprovado, bloquear a opção do usuario editar o que foi enviado na prosposta.
 - **Bugs/Erros:**  
-   - como nenhum espaço é listado nao é possivel realizar locação, logo o menu se encontra vazio.
+   - locações listadas corretamente esperando aprovação do setor responsável.
 - **Status:** [Em progresso]
 
 ---
