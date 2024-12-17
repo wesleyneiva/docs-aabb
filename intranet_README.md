@@ -239,7 +239,7 @@ Cada módulo será descrito em uma seção específica, com a seguinte estrutura
   - [ ] Aula experimental condicionada a limite de vagas disponiveis na turma.
   - [ ] Natação tem regras especificas (3 perguntas - se a crianca tem vivencia na modalidade...).
   - [ ] Transferencia de matricula de uma atividade para outro usuario dentro da mesma matricula.
-- **Bugs/Erros:**  
+- **Bugs/Erros:**
    - Após criar turma ao editar nao atualiza na tela de turma inserida.
    - nao salva a edição de turma "InvalidRequestException"
 - **Status:** [Em progresso]
