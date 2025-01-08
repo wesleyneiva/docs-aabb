@@ -8,9 +8,9 @@
 #### <a href="#1-objetivo"> Objetivo </a>
 #### <a href="#2-estrutura-do-documento"> Estrutura do Documento </a>
 #### <a href="#3-lista-de-módulos-essenciais"> Lista de Módulos Essenciais </a>
-- ##### <a href="#módulo-1-secretariacentral-de-relacionamento-associados"> 1. Secretaria / Central de Relacionamento </a>
-- ##### <a href="#módulo-2-cursos-e-atividades-esportivas"> 2. Cursos e Atividades Esportivas</a>
-- ##### <a href="#módulo-3-locação"> 3. Academia </a>
+- ##### <a href="#módulo-1-secretariacentral-de-relacionamento-gerenciamento-de-quadro-social"> 1. Secretaria / Central de Relacionamento - Gerencialmento de Quadro Social </a>
+- ##### <a href="#módulo-2-atividades-esportivas"> 2. Atividades Esportivas</a>
+- ##### <a href="#módulo-3-academia"> 3. Academia </a>
 - ##### <a href="#módulo-4-locação"> 4. Locaçao </a>
 - ##### <a href="#módulo-5-eventos"> 5. Eventos </a>
 - ##### <a href="#módulo-6-acesso"> 6. Acesso </a>
@@ -39,23 +39,48 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 ## 3. Lista de Módulos Essenciais
 
-### Módulo 1: Secretaria/Central de Relacionamento (ASSOCIADOS)
+### Módulo 1: Secretaria/Central de Relacionamento (Gerenciamento de Quadro Social)
 
 **Descrição Geral:** Responsável por fomentar toda relação entre o associado/não associado e o clube, no que se refere a parte cadastral.
 
-**Objetivo Final:** Ter os parâmetros do clube, disponibilizar categorias, tipo de dependentes, limites de idades, valores correspondentes, criação de tipos de cadastros, cadastros de documentos necessário para vinculo, eventos financeiros e suas vinculações, com tipo e cadastro, parametrização de valores, valores futuros, conforme categoria. Gerenciamento dos contratos de associação para emissão.
+**Objetivo Final:** 
+- [ ] Ter os parâmetros do clube
+- [ ] disponibilizar categorias
+- [ ] tipo de dependentes
+- [ ] limites de idades
+- [ ] valores correspondentes
+- [ ] criação de tipos de cadastros
+- [ ] cadastros de documentos necessário para vinculo
+- [ ] eventos financeiros e suas vinculações, com tipo e cadastro
+- [ ] parametrização de valores, valores futuros, conforme categoria
+- [ ] Gerenciamento dos contratos de associação para emissão
 
-- **Status:** [ Em progresso ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
-### Módulo 2: Cursos e Atividades Esportivas
+### Módulo 2: Atividades Esportivas
 
 **Descrição Geral:** Responsável pela gereciamento dos cadastros da atividaes esportivas e  matriculas em escolas esportivas.
 
-**Objetivo Final:** Criação de cursos ou atividades com seus parâmetros e controles, tipo de atividades, turmas, horários, idades, pacotes (de uma ou mais atividades, por matrícula), lista de espera (controle com registros e prazos), automatização de encerramento de inscrição e chamado de lista de espera. Controle de lista de chamada on-line para professores, controle de locais das aulas vinculado ao sistema de locação de espaços. Gerenciamentodo cadastro de professores/prestadores para exibição das infromações dos memso na parte web, em atividades prestadas por terceirizados como forma de parceria, hcontrole dos recebimentos, confrome contrato firmado. Gerenciamento dos contratos relativo as matriculas e prestadores.
+**Objetivo Final:** 
+- [ ] Criação de cursos ou atividades com seus parâmetros e controles
+- [ ] tipo de atividades, turmas, horários, idades, pacotes (de uma ou mais atividades, por matrícula)
+- [ ] lista de espera (controle com registros e prazos)
+- [ ] automatização de encerramento de inscrição e chamado de lista de espera
+- [ ] Controle de lista de chamada on-line para professores
+- [ ] controle de locais das aulas vinculado ao sistema de locação de espaços
+- [ ] Gerenciamentodo cadastro de professores/prestadores para exibição das informações dos memso na parte web, em atividades prestadas por terceirizados como forma de parceria
+- [ ] controle dos recebimentos, conforme contrato firmado
+- [ ] Gerenciamento dos contratos relativo as matriculas e prestadores
 
-- **Status:** [ Em progresso ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
@@ -63,9 +88,21 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Responsável pela gerecimento dos cadastros da atividaes da academia e das matriculas dos alunos.
 
-**Objetivo Final:** Criação de cursos ou atividades com seus parâmetros e controles, tipo de atividades, turmas, horários, idades, pacotes (de uma ou mais atividades, por matrícula), lista de espera (controle com registros e prazos), automatização de encerramento de inscrição e chamado de lista de espera. Controle de lista de chamada on-line para professores, controle de locais das aulas vinculado ao sistema de locação de espaços. Gerenciamentodo cadastro de professores/prestadores para exibição das infromações dos mesmos na parte web, em atividades prestadas por terceirizados como forma de parceria, controle dos recebimentos, conforme contrato firmado. Gerenciamento dos contratos relativo as matriculas e prestadores.
+**Objetivo Final:** 
+- [ ] Criação de cursos ou atividades com seus parâmetros e controles
+- [ ] tipo de atividades, turmas, horários, idades, pacotes (de uma ou mais atividades, por matrícula)
+- [ ] lista de espera (controle com registros e prazos)
+- [ ] automatização de encerramento de inscrição e chamado de lista de espera
+- [ ] Controle de lista de chamada on-line para professores
+- [ ] controle de locais das aulas vinculado ao sistema de locação de espaços
+- [ ] Gerenciamentodo cadastro de professores/prestadores para exibição das infromações dos mesmos na parte web
+- [ ] em atividades prestadas por terceirizados como forma de parceria, controle dos recebimentos, conforme contrato firmado
+- [ ] Gerenciamento dos contratos relativo as matriculas e prestadores
 
-- **Status:** [ Não iniciada ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
@@ -73,19 +110,35 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Responsável pelo gerencimento do serviço de locação.
 
-**Objetivo Final:** Locação de espaços, salões, armários e materiais (com e sem custos), emissão de contrato, controle de prazos de pré-reservas e lista de interessados. Regras para locação, moldes e limites com rotinas parametrizáveis: pré-reservas, lista de interessados e reservas com periodicidade. Incorporação do Marque: espaços esportivos, churrasqueiras, raias e quadras (Aluguel com e sem custos). Gerenciamento dos contratos e documentos relativos.
+**Objetivo Final:** 
+- [ ] Locação de espaços, salões, armários e materiais (com e sem custos)
+- [ ] emissão de contrato, controle de prazos de pré-reservas e lista de interessados
+- [ ] Regras para locação, moldes e limites com rotinas parametrizáveis: pré-reservas, lista de interessados e reservas com periodicidade
+- [ ] Incorporação do Marque: espaços esportivos, churrasqueiras, raias e quadras (Aluguel com e sem custos)
+- [ ] Gerenciamento dos contratos e documentos relativos
 
-- **Status:** [ Em progresso ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
-- ---
+---
 
 ### Módulo 5: Eventos
 
 **Descrição Geral:** Responsável pelo gerenciamento dos eventos.
 
-**Objetivo Final:** Criação de eventos, com venda ou não de ingressos, e parametrização de tipos e formatos, inscrições em torneios e eventos esportivos. Submódulo de gestão de lugares: Será implementado um layout padrão com formas geométricas a serem posicionadas montando o layout das mesas ou cadeiras a serem disponibilizadas no evento em particular. Realização de check-in dos ingressos do evento. Acompanhamento on-line de vendas, registros e relatórios com base nas opções existentes.
+**Objetivo Final:** 
+- [ ] Criação de eventos, com venda ou não de ingressos, e parametrização de tipos e formatos
+- [ ] inscrições em torneios e eventos esportivos
+- [ ] Submódulo de gestão de lugares: Será implementado um layout padrão com formas geométricas a serem posicionadas montando o layout das mesas ou cadeiras a serem disponibilizadas no evento em particular
+- [ ] Realização de check-in dos ingressos do evento
+- [ ] Acompanhamento on-line de vendas, registros e relatórios com base nas opções existentes
 
-- **Status:** [ Em progresso ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
@@ -93,9 +146,14 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Responsável pelo gerenciamento do acesso.
 
-**Objetivo Final:** Criação de locais de acesso com regras de categorias e atividades esportivas, com parametrizações de catracas. Gerenciamento dos parâmentros do estacionamento.
+**Objetivo Final:** 
+- [ ] Criação de locais de acesso com regras de categorias e atividades esportivas, com parametrizações de catracas
+- [ ] Gerenciamento dos parâmentros do estacionamento
 
-- **Status:** [ Em processo ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
@@ -103,9 +161,16 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Módulo que destina-se ao atendimento dos associados e usuários.
 
-**Objetivo Final:** CRM para atendimento, classificando por tipo de atendimento: presencial, telefônico, mídias sociais, consulta. Criação de tela que localiza e efetua o cadastro. Ter a frente de caixa para cobrança de valores: integração com TEF (pagamento cartão, pix), emissão de boleto via integração BB e dinheiro. Acesso a todas os registros das pessoas da matrícula e estes movimentos, tais como: tentativas e acessos, locações, inscrições em atividades, eventos, mudança de situação, categoria e fidelidade, etc...
+**Objetivo Final:** 
+- [ ] CRM para atendimento, classificando por tipo de atendimento: presencial, telefônico, mídias sociais, consulta
+- [ ] Criação de tela que localiza e efetua o cadastro
+- [ ] Ter a frente de caixa para cobrança de valores: integração com TEF (pagamento cartão, pix), emissão de boleto via integração BB e dinheiro
+- [ ] Acesso a todas os registros das pessoas da matrícula e estes movimentos, tais como: tentativas e acessos, locações, inscrições em atividades, eventos, mudança de situação, categoria e fidelidade, etc...
 
-- **Status:** [ Não iniciado ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 --- 
 
@@ -113,9 +178,16 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Módulo que destina-se ao gerenciamento dos rotinas de portaria.
 
-**Objetivo Final:** Visualização dos acessos e suas ocorrências, registro de visitantes e fornecedores com liberação temporária de acesso e emissão de crachás temporários, visualização de eventos, atividade e locações agendadas com detalhes. Registro de ocorrências, cobrança de estacionamento (caixa de cobrança registro de valores e cobrança) e liberação dos tickets. Registros de encomendas.
+**Objetivo Final:** 
+- [ ] Visualização dos acessos e suas ocorrências, registro de visitantes e fornecedores com liberação temporária de acesso e emissão de crachás temporários
+- [ ] visualização de eventos, atividade e locações agendadas com detalhes
+- [ ] Registro de ocorrências, cobrança de estacionamento (caixa de cobrança registro de valores e cobrança) e liberação dos tickets
+- [ ] Registros de encomendas.
 
-- **Status:** [ Em processo ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 --- 
 
@@ -123,9 +195,14 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Módulo que destina-se a gerenciamento do programa fidelidade.
 
-**Objetivo Final:** Gerenciamento do programa com suas regras de geração de pontos, produtos (controle de estoque), procesos de retiradas de produtos e relatórios. Ver a estratégia para vincular com gameficação tais como cadastros e demais possibilidades.
+**Objetivo Final:** 
+- [ ] Gerenciamento do programa com suas regras de geração de pontos, produtos (controle de estoque), procesos de retiradas de produtos e relatórios
+- [ ] Ver a estratégia para vincular com gameficação tais como cadastros e demais possibilidades.
 
-- **Status:** [ Não iniciado ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
@@ -133,9 +210,13 @@ Este documento tem como objetivo listar e descrever os módulos essencias para o
 
 **Descrição Geral:** Gerenciamento da biblioteca
 
-**Objetivo Final:** Gerenciamento do acervo, processo de controle de emprestimos de material e suas regras.
+**Objetivo Final:** 
+- [ ] Gerenciamento do acervo, processo de controle de emprestimos de material e suas regras.
 
-- **Status:** [ Em processo ]
+- **Status:**
+- [ ] nao iniciado
+- [ ] em progresso
+- [ ] concluido
 
 ---
 
