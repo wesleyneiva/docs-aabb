@@ -1,4 +1,3 @@
-![aabblogo](https://astecpmpa.com.br/wp-content/uploads/2018/01/Logo-AABB-600x416-600x330.jpg)
 # Documento de Controle de Módulos e Funcionalidades
 
 **Projeto:** MEU CLUBE
